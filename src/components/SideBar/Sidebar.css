@@ -1,0 +1,33 @@
+.sidebar {
+  flex: 1;
+  background-color: rgb(78, 114, 222);
+  color: white;
+  height: 150hv;
+  position: sticky;
+}
+.sidebarWrapper {
+  padding: 20px;
+}
+.sidebarTitle {
+  margin-bottom: 10px;
+}
+h2 {
+  margin-bottom: 20px;
+}
+h3 {
+  margin-bottom: 20px;
+}
+.sidebarList {
+  list-style: none;
+  padding: 10px;
+}
+.sidebarListItemTitle {
+  color: rgba(187, 186, 186);
+  margin-bottom: 25px;
+}
+.sidebarListItem{
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    margin-bottom: 20px;
+}
